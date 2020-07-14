@@ -253,7 +253,7 @@ h1::after
 	padding: 4px;
 	border-radius: 50%;
 }
-.img-box ul{
+.img-boxx ul{
 	padding: 15px 0;
 	 position:absolute;
 	 z-index:2;
@@ -262,18 +262,18 @@ h1::after
 	 transform: translateX(-50%)
 	 opacity:0;
 }
-.img-box ul li
+.img-boxx ul li
 {
 	padding:5px;
 	display:inline-block;
 }
 	
 }
-.img-box:hover ul
+.img-boxx:hover ul
 {
 	opacity: 1;
 }
-img-box ul, .img-box ul li
+img-boxx ul, .img-boxx ul li
 {
 	transition: 0.5s;
 }
